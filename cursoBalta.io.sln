@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoBalta.io", "CursoBalta.io\CursoBalta.io.csproj", "{007EF001-E1BD-431B-BB46-9831CF0DAA0D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX001", "EX001\EX001.csproj", "{007EF001-E1BD-431B-BB46-9831CF0DAA0D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
